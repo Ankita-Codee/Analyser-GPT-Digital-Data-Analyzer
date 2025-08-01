@@ -15,9 +15,12 @@ AutoAnalytica is an AI-powered tool that accepts CSV files, analyzes the data, a
 - GPT-powered insights: Ask “What’s the average sales in Q2?” and get the answer!
 
 ## 🛠️ Technologies Used
-- Autogen  
-- Python 
+- Autogen
+  
+- Python
+  
 - OpenAI GPT / LLMs
+  
 - Streamlit 
 
 
