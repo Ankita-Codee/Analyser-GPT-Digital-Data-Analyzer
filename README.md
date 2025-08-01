@@ -1,1 +1,1 @@
-# Analyser-GPT-Digital-Data-Analyzer
+# Analyser GPT-Digital Data Analyzer
